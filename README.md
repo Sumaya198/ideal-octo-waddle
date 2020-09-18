@@ -22,7 +22,7 @@ ___
 * I replaces the div tags with semantic HTML tags i.e. I replaced div with section or article where appropriate.
 * The image size was too large and required adjusting
 * In the CSS section some classes had the same properties so I grouped them all the classes that has the same properties. 
-* Once all of the this was complete the website was more accissible
+* Once all of the this was complete the website was more accissible.
 
 ![Accessible-website](accesibilty-01.jpg)
 
